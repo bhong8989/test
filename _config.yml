@@ -1,0 +1,13 @@
+title: Ben's Website
+author: Benjamin Hong
+email: bhong@ebnet.org
+description: Made for Mr. Cohen's APCS class.
+theme: jekyll-theme-dinky
+
+# social links
+instagram_username: dun_dun_dunnnnnnn
+twitter_username: aziatka8 # DO NOT include the @ character, or else the build will fail!
+discord_username: printer#3637
+github_username:  bhong8989 # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
